@@ -22,8 +22,8 @@
 
  - 男，1998.9
  - 求职意向：嵌入式软件，AI算法
- - 期望薪资：16k-22k
- * 工作经历主要集中于 STM32MCU系列嵌入式开发，研究以小模型架构设计以及边端部署为主，有 STM32MPU使用经验，包括OpenSTDROID和OpenSTLinux安装调试。个人业余维护了一台个人使用的小模型训练机器，以及一台基于 Debian系的个人 NAS机器。
+ - 期望薪资：16k-20k
+ * 工作经历主要集中于 STM32MCU系列嵌入式开发，研究以小模型架构设计以及边端部署为主，有 STM32MPU使用经验，包括 OpenSTDROID和 OpenSTLinux安装调试。个人业余维护了一台个人使用的小模型训练机器，以及一台基于 Debian系的个人 NAS机器。
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
